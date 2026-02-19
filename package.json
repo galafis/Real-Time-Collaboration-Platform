@@ -1,0 +1,10 @@
+{
+  "name": "real-time-collaboration-platform",
+  "version": "1.0.0",
+  "description": "> Professional repository showcasing advanced development skills",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "MIT"
+}
